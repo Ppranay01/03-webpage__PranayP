@@ -1,1 +1,1 @@
-This is a basic Webpage. Thank You!!
+This is a basic Responsive Webpage. Thank You!!
